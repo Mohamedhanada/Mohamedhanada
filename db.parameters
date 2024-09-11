@@ -1,0 +1,4 @@
+env=test
+name= boska
+image=nginx
+ipaddress= 172.0.0.1
